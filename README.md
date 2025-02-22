@@ -139,8 +139,8 @@ setupSwagger(app);
 ---
 
 ## **📌 Contributors**
-👨‍💻 **Your Name**  
-📩 Email: `your-email@example.com`  
-👉 GitHub: [Your Profile](https://github.com/your-username)
+👨‍💻 **Aman Verma**  
+📩 Email: `vermaaman2809@gmail.com`  
+👉 GitHub: [Aman](https://github.com/Aman-Verma-28)
 
 ---
