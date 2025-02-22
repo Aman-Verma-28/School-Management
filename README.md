@@ -130,14 +130,6 @@ setupSwagger(app);
 
 ---
 
-## **📌 Future Enhancements**
-- ✅ **Add User Role Management**
-- ✅ **Implement GraphQL API**
-- ✅ **Integrate Notification System**
-- ✅ **Deploy to AWS/DigitalOcean**
-
----
-
 ## **📌 Contributors**
 👨‍💻 **Aman Verma**  
 📩 Email: `vermaaman2809@gmail.com`  
